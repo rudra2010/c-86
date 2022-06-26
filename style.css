@@ -1,0 +1,15 @@
+.body_backgorund 
+{
+    background-image:url(855b707cfa220acb8b7575cd3e0f0436.gif);
+    background-position:center;
+    background-size:cover;
+    
+}
+#myCanvas
+{
+  border-width: 10px; 
+  border-color:darkviolet;
+  border-style: groove;
+  background-color:hotpink;
+}
+
